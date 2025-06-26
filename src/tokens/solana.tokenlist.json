@@ -184616,17 +184616,21 @@
         "social-token"
       ]
     },
-   {
-    "chainId": 101,
-    "address": "DKtmVa3ui5nZ56Hn4HMdpkCyx8W1zsxtpromrgL4BomS",
-    "symbol": "BOMS",
-    "name": "Boms",
-    "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/QmQSZdZjjVsDNozyADyTDqEoFfeU1wpdypukS4uwHWmUGX",
-    "tags": ["memecoin", "community"]
-  }
-
-
+        {
+      "chainId": 101,
+      "address": "DKtmVa3ui5nZ56Hn4HMdpkCyx8W1zsxtpromrgL4BomS",
+      "symbol": "BOMS",
+      "name": "Boms",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DKtmVa3ui5nZ56Hn4HMdpkCyx8W1zsxtpromrgL4BomS/logo.png",
+      "tags": ["memecoin", "community"],
+      "extensions": {
+        "website": "https://www.boms.fun",
+        "twitter": "https://x.com/BomsFun",
+        "telegram": "https://t.me/bitethedip",
+        "youtube": "https://www.youtube.com/@BomsFun"
+      }
+    }
   ],
   "version": {
     "major": 0,
